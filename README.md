@@ -18,9 +18,9 @@ Inside this tutorial, you will learn how to perform facial recognition using Ope
 
 In the `video_test` folder, the output files look something like this:
 
-lunch_scene output https://youtu.be/MtBklF6ivmg
+lunch_scene_output.avi https://youtu.be/MtBklF6ivmg
 
-trailer output https://youtu.be/BxfdMrhsEnw
+trailer_output.avi https://youtu.be/BxfdMrhsEnw
 
 
 ## Install your face recognition libraries
