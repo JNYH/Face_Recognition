@@ -16,7 +16,7 @@ Inside this tutorial, you will learn how to perform facial recognition using Ope
 ![image](https://user-images.githubusercontent.com/52286325/175816746-c0fd0fa4-fec6-4fa5-a664-2ad466c6fee2.png)
 
 
-Sample output videos:
+In the `video_test` folder, the output files look something like this:
 
 lunch_scene output https://youtu.be/MtBklF6ivmg
 
