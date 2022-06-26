@@ -14,6 +14,13 @@ Inside this tutorial, you will learn how to perform facial recognition using Ope
 ![image](https://user-images.githubusercontent.com/52286325/175816746-c0fd0fa4-fec6-4fa5-a664-2ad466c6fee2.png)
 
 
+Sample output videos:
+
+lunch_scene output https://youtu.be/MtBklF6ivmg
+
+trailer output https://youtu.be/BxfdMrhsEnw
+
+
 ## Install your face recognition libraries
 In order to perform face recognition with Python and OpenCV, we need to install two additional libraries:
 
