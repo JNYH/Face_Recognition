@@ -1,5 +1,5 @@
 # Face_Recognition
-OpenCV python codes to recognise faces in images, webcam video, and video files
+OpenCV python codes to recognise faces in images, webcam stream, and video files
 
 ![image](https://user-images.githubusercontent.com/52286325/175816601-7420dd03-1d6f-4b67-b406-e9c83282127f.png)
 
