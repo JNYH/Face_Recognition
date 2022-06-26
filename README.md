@@ -29,4 +29,6 @@ The dlib library, maintained by Davis King, contains our implementation of “de
 The face_recognition library, created by Adam Geitgey, wraps around dlib’s facial recognition functionality, making it easier to work with. Adam’s library provides a wrapper around dlib to make the face recognition functionality easier to use. More details: https://adamgeitgey.com/
 
 
+Webcam output:
+
 ![image](https://user-images.githubusercontent.com/52286325/175817262-82d9aa42-45b4-4d36-81ef-90285a2ba738.png)
