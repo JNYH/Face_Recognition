@@ -10,7 +10,7 @@ Please feel free to fork this repo, and run the notebook. The dataset is in the 
 ## Face recognition with OpenCV, Python, and deep learning
 Source: https://pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/
 
-In this tutorial, I have learnt how to perform facial recognition using OpenCV, Python, and deep learning. I started with a brief discussion of how deep learning-based facial recognition works, including the concept of “deep metric learning.” From there, I installed the libraries needed to perform face recognition. Finally, I implemented face recognition for both still images and video streams (such as webcam and video files). As discovered, the face recognition implementation will be capable of running in real-time.
+In this tutorial, I have learnt how to perform facial recognition using OpenCV, Python, and deep learning. I started with a brief discussion of how deep learning-based facial recognition works, including the concept of “deep metric learning”. From there, I installed the libraries needed to perform face recognition. Finally, I implemented face recognition for both still images and video streams (such as webcam and video files). As discovered, the face recognition implementation will be capable of running in real-time.
 
 
 ![image](https://user-images.githubusercontent.com/52286325/175816746-c0fd0fa4-fec6-4fa5-a664-2ad466c6fee2.png)
