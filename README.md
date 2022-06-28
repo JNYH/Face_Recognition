@@ -26,7 +26,7 @@ trailer_output.avi https://youtu.be/BxfdMrhsEnw
 ## Install your face recognition libraries
 In order to perform face recognition with Python and OpenCV, there is a need to install two additional libraries:
 
-The dlib library, maintained by Davis King, contains our implementation of “deep metric learning” which is used to construct our face embeddings used for the actual recognition process. Davis has provided a ResNet-based siamese network that is super useful for face recognition tasks. More details: https://pyimagesearch.com/2017/03/13/an-interview-with-davis-king-creator-of-the-dlib-toolkit/
+The dlib library, maintained by Davis King, contains our implementation of “deep metric learning” to construct our face embeddings used for the actual recognition process. Davis has provided a ResNet-based siamese network that is super useful for face recognition tasks. More details: https://pyimagesearch.com/2017/03/13/an-interview-with-davis-king-creator-of-the-dlib-toolkit/
 
 The face_recognition library, created by Adam Geitgey, wraps around dlib’s facial recognition functionality, making it easier to work with. Adam’s library provides a wrapper around dlib to make the face recognition functionality easier to use. More details: https://adamgeitgey.com/
 
