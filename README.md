@@ -30,6 +30,8 @@ The *dlib* library, maintained by Davis King, contains our implementation of “
 
 The *face_recognition* library, created by Adam Geitgey, wraps around dlib’s facial recognition functionality, making it easier to work with. Adam’s library provides a wrapper around dlib to make the face recognition functionality easier to use. More details: https://adamgeitgey.com/
 
+The *opencv* (Open Source Computer Vision) library is an open source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products. More details: https://pypi.org/project/opencv-python/
+
 The *imutils* library, maintained by Adrian Rosebrock (pyimagesearch) is a series of convenience functions to make basic image processing functions easier with OpenCV. These processing functions include translation, rotation, resizing, skeletonization, displaying Matplotlib images, sorting contours, detecting edges, and much more. More details: https://github.com/PyImageSearch/imutils
 
 
