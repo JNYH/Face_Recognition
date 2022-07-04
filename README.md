@@ -40,7 +40,7 @@ Before being able to recognise faces in images and videos, I first need to encod
 
 I could alternatively train a network from scratch or even fine-tune the weights of an existing model, but that is too much to be done for many projects. Furthermore, I would need a lot of images to train the network from scratch. Instead, it is easier to use the pre-trained network and then use it to construct 128-d embeddings for each of the 30 faces in my dataset.
 
-During classification, I have used a simple KNN model and votes to conclude the final face classification. Other traditional machine learning models could be used here as well. Please refer to Face_Recognition.ipynb for detailed code.
+During classification, I have used a simple KNN model and votes to conclude the final face classification. Other traditional machine learning models could be used here as well. Please refer to **Face_Recognition.ipynb** for detailed code.
 
 
 Here's an example webcam output:
